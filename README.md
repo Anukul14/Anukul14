@@ -1,7 +1,7 @@
 - Hi, I’m @Anukul14
 - I’m interested in Open Source, Distributed Systems and Software Development
 - I’m currently learning, always open to learning :)
-- 💞I’m looking to collaborate on Large Scale Systems or any side projects I may be helpful to _/\_
+- I’m looking to collaborate on Large Scale Systems or any side projects I may be helpful to _/\_
 - Reach me at my Linkedin [https://www.linkedin.com/in/anukul-kumar-a83618169/]
 
 <!---
